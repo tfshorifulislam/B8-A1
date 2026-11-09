@@ -9,10 +9,10 @@ Along with the coding solutions, I have also written two technical blog posts to
 ## Project Structure
 
 ```text
-├── solutions.ts
-├── type-vs-interface.md
-├── any-unknown-never.md
-└── README.md
+solutions.ts
+type-vs-interface.md
+any-unknown-never.md
+README.md
 ```
 
 ## How to Run or Compile
